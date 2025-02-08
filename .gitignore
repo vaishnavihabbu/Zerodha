@@ -1,2 +1,10 @@
+<<<<<<< HEAD
 **/.env
 node_modules/
+=======
+# Ignore node_modules
+/node_modules/
+
+# Ignore .env file
+/backend/.env
+>>>>>>> 2f30bbf (Add .gitignore file)
